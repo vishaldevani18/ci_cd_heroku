@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        this is the testing of ci/cd with heroku
+        this is the testing  ci/cd with heroku
         </p>
         <a
           className="App-link"
